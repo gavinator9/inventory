@@ -38,6 +38,8 @@ namespace Elliott_Inventory
                 if (input == '6')
                 {
                     Console.WriteLine(shipper.Compute());
+                    Console.WriteLine("\n Have a nice day!");
+                    isrunning = false;
                 }
 
 

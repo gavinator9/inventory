@@ -1,0 +1,15 @@
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\obj\Debug\net6.0\Elliott_Inventory.csproj.AssemblyReference.cache
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\obj\Debug\net6.0\Elliott_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\obj\Debug\net6.0\Elliott_Inventory.AssemblyInfoInputs.cache
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\obj\Debug\net6.0\Elliott_Inventory.AssemblyInfo.cs
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\obj\Debug\net6.0\Elliott_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\bin\Debug\net6.0\Elliott_Inventory.exe
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\bin\Debug\net6.0\Elliott_Inventory.deps.json
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\bin\Debug\net6.0\Elliott_Inventory.runtimeconfig.json
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\bin\Debug\net6.0\Elliott_Inventory.dll
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\bin\Debug\net6.0\Elliott_Inventory.pdb
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\obj\Debug\net6.0\Elliott_Inventory.dll
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\obj\Debug\net6.0\refint\Elliott_Inventory.dll
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\obj\Debug\net6.0\Elliott_Inventory.pdb
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\obj\Debug\net6.0\Elliott_Inventory.genruntimeconfig.cache
+C:\Users\Leslie\source\repos\Elliott_Inventorysolution\Elliott_Inventory\obj\Debug\net6.0\ref\Elliott_Inventory.dll

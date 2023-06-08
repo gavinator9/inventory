@@ -1,7 +1,6 @@
 ﻿// Gavin Elliott
 // IT112 
-// NOTES: slightly confused by rubric item "shipping calculations other than via the interface" is using my inventory array avoiding this or am I
-// misunderstanding what you mean? I have the method internally "ask" each array item its properties if that's what you mean in the clarification
+// NOTES: Was pretty interesting learning to implement the interface for the first time, got so focused on that part I forgot trivial errors like making objects from my classes at first lol
 // BEHAVIORS NOT IMPLEMENTED AND WHY: Seems to be feature complete as far as I understand the assignment
 
 namespace Elliott_Inventory
